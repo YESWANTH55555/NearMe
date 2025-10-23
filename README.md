@@ -144,7 +144,7 @@ with the advance engineering skill.
 ![alt text](web4/mapapp/static/1.png)
 ![alt text](web4/mapapp/static/home.png)
 ![alt text](web4/mapapp/static/kovvur.png)
-[text](web4/mapapp/static/cottonmuseum.html)
+![alt text](<web4/mapapp/static/cotton museum.png>)
 
 
 
